@@ -27,9 +27,13 @@
     <button class="w-[40%] h-[40px] p-2 bg-green-600 text-white font-semibold text-[18px] rounded-xl" type="submit">ADD USER</button>
  </form>
  </div>
-    <ul class="users_list p-10 flex gap-2">
-        
-    </ul>
+    <ul class="users_list p-10 flex flex-wrap justify-center  gap-2"></ul>
+
+    <div id="wrapper" class="modal_wrapper fixed inset-0 bg-[#00000790] flex items-center justify-center scale-0">
+         <div class="modal_inner w-[500px] rounded-md bg-white p-5">
+
+         </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="./app.js"></script>

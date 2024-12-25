@@ -1,58 +1,16 @@
 {
   "users": [
     {
-      "id": "1",
-      "username": "John",
-      "age": "18",
-      "study": "University"
-    },
-    {
-      "id": "2",
-      "username": "Doe",
-      "age": "20",
-      "study": "University"
-    },
-    {
-      "id": "2a5c",
-      "username": "",
-      "age": "",
-      "study": ""
-    },
-    {
       "id": "5af8",
       "username": "Asadbek",
       "age": "21",
       "study": "NYLC"
     },
     {
-      "id": "386c",
-      "username": "",
-      "age": "",
-      "study": ""
-    },
-    {
-      "id": "b8ba",
-      "username": "",
-      "age": "",
-      "study": ""
-    },
-    {
-      "id": "d9de",
-      "username": "",
-      "age": "",
-      "study": ""
-    },
-    {
-      "id": "f045",
-      "username": "",
-      "age": "",
-      "study": ""
-    },
-    {
-      "id": "b88b",
-      "username": "",
-      "age": "",
-      "study": ""
+      "id": "110a",
+      "username": "Asadulloh",
+      "age": "12",
+      "study": "NYLC"
     }
   ]
 }
